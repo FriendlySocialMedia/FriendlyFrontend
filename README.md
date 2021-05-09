@@ -1,4 +1,46 @@
-# FrontEnd
+# Friendly FrontEnd
+
+## Description
+Friendly is a social media platform where everyone is friends with everyone. Users can connect to each other and share posts, messages, and images.
+
+## Features
+  - Account Registration
+  - Pasword Change Via Email
+  - Editable Account Details
+  - Profile Pictures
+  - Ability to Create Posts and Comments
+  - Ability to Like Posts and Comments
+  - Posts are Editable and can be Deleted
+  - Upload Images to Posts
+  - User Search
+  - User Profiles
+  - Live Chat
+  - Post Feed Containing All Posts
+  - Dark Mode
+
+## Technologies
+  - Spring MVC
+  - Spring ORM
+  - Hibernate
+  - Java
+  - Angular
+  - TomCat
+  - Amazon RDS
+  - Amazon EC2
+  - Amazon S3
+  - WebSockets
+  - HTML
+  - CSS
+  - Typescript
+
+## Screenshots
+  ![Live Chat](./screenshots/websocketsp2.png)
+  ![Search Component](./screenshots/p2search.png)
+  ![Post Feed](./screenshots/project2dashboard.png)
+  ![Dark Mode](./screenshots/p2darkmode.png)
+
+
+## Getting Started
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
